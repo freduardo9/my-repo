@@ -1,2 +1,2 @@
 # my-repo
-This is a new line.
+This is a red line.
